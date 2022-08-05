@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+a{
+   text-decoration: none;
+}
+a:hover{
+    color:black;
+}
+
+
+.auth-card{
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+    margin:30px auto;
+}
+
+.input-field input[type=text]:focus{
+    border-bottom:1px solid #ee6e73 !important;
+    box-shadow:0 1px 0 0 #ee6e73;
+}
+
+.clrbtn{
+    background-color: #ee6e73 !important;
+}
+body {
+    background-color: #a7bec7;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.apni  {
+    background-color: #97b8c7;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.foot{
+background-color: #ee6e73;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+.wrapper {
+    position: relative;
+    max-width: 1298px;
+    height: auto;
+    margin: 2em auto 0 auto;
+    background: transparent url("https://www.dropbox.com/s/qq5n8w99q40wtrg/wood-fence.png?raw=1") no-repeat center top 24em;
+}
+
+.box {
+  max-width: 70%;
+  min-height: 600px;
+  margin: 0 auto;
+  padding: 1em 1em;
+  text-align: center;
+  background: transparent url("https://www.dropbox.com/s/ft9vhk6720t1k86/dog-family-colored-doodle-drawing.jpg?raw=1") no-repeat top 10em center;
+}
